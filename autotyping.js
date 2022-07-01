@@ -120,12 +120,16 @@ var AutoTyping = (function (e) {
 
 
 const exampleText = [
-                    'Virtual Reality', 
+                    'Interactive Development',
+                    'Virtual Reality',
                     'Augmented Reality', 
+                    'Interactive Development',
                     'Game Dev',
-                    'Interactive content',
-                    'Database Dev/Analyst',
-                    'STEM Education',];
+                    'Database Dev /Analyst',
+                    'STEM Education',
+                    'More...',
+                  ]
+
 const exampleTyping = new AutoTyping('#text', exampleText, {
     typeSpeed: 100,
     deleteSpeed: 100,
