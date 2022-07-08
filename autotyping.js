@@ -120,12 +120,12 @@ var AutoTyping = (function (e) {
 
 
 const exampleText = [
-                    'Interactive Development',
                     'Virtual Reality',
                     'Augmented Reality', 
                     'Interactive Development',
                     'Game Dev',
                     'Database Dev /Analyst',
+                    'Edtech',
                     'STEM Education',
                     'More...',
                   ]
