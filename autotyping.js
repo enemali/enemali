@@ -119,8 +119,10 @@ var AutoTyping = (function (e) {
 ]).default;
 
 
-const exampleText = [
-                    'Virtual Reality',
+const exampleText = ['3D dev- Blender 3D' , 
+                    'Cinema4D, SketchUp etc}',
+                    'Virtual Reality Dev ',
+                    'Unity3D, Unreal Engine etc',
                     'Augmented Reality', 
                     'Interactive Development',
                     'Game Dev',
